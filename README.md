@@ -4,12 +4,12 @@
 In this work, we propose to tackle the issue of detecting and segmenting small and complex-shaped buildings in Electro-Optical (EO) and SAR satellite imagery. A novel architecture Deep Multi-scale Aware Overcomplete Network (DeepMAO), is proposed that comprises an overcomplete branch that focuses on fine structural features and an undercomplete (U-Net) branch tasked to focus on coarse, semantic-rich features. Additionally, a novel self-regulating augmentation strategy, “Loss-Mix,” is proposed to increase pixel representation of misclassified pixels.
 
 
-<p>DeepMAO architecture</p>
-![jhgs](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao.png)
+DeepMAO architecture
+<div>![jhgs](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao.png)</div>
 
 
-<p>Sample Results</p>
-![sgjiosj](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao_results.png)
+Sample Results
+<div>![sgjiosj](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao_results.png)</div>
 
 We advise you to use conda environment to run the package. Run the following command to install all the necessary modules:
 
