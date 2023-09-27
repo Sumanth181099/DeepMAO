@@ -5,11 +5,11 @@ In this work, we propose to tackle the issue of detecting and segmenting small a
 
 
 DeepMAO architecture
-<div>![jhgs](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao.png)</div>
+![](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao.png)
 
 
 Sample Results
-<div>![sgjiosj](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao_results.png)</div>
+![](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao_results.png)
 
 We advise you to use conda environment to run the package. Run the following command to install all the necessary modules:
 
