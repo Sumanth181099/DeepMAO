@@ -2,6 +2,7 @@
 # DeepMAO-Deep Multi-scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery
 
 In this work, we propose to tackle the issue of detecting and segmenting small and complex-shaped buildings in Electro-Optical (EO) and SAR satellite imagery. A novel architecture Deep Multi-scale Aware Overcomplete Network (DeepMAO), is proposed that comprises an overcomplete branch that focuses on fine structural features and an undercomplete (U-Net) branch tasked to focus on coarse, semantic-rich features. Additionally, a novel self-regulating augmentation strategy, “Loss-Mix,” is proposed to increase pixel representation of misclassified pixels. 
+
 Check out our paper [here](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.pdf).
 
 
