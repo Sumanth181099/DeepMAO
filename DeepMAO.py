@@ -63,7 +63,7 @@ from segmentation_models_pytorch.decoders.unet import UnetDecoder
 from torch.utils.tensorboard import SummaryWriter
 from math import ceil
 from typing import Optional, Union, List
-from utils_cutmix import *
+from utils_lossmix import *
 from sklearn.manifold import TSNE
 #import seaborn as sns
 import warnings
