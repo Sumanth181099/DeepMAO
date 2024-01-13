@@ -44,7 +44,7 @@ python visual.py
 ```
 
 ## Results
-<!-- ![Results png from paper](https://github.com/Sumanth181099/DeepMAO/blob/main/pngs/git_deepmao.png) -->
+![Results png from paper](https://github.com/prajwalgt/DeepMAO/blob/main/pngs/deepmaotable.png)
 
 
 ## Citation
